@@ -10,15 +10,24 @@
 -  _Project Requirements : Linux Environment either running as a VM or a guest Os, ManageEngine installer and working networking environment_ 
 
 
+## 📝 Background check
+ **Check if project environment is ready**
+ 
+- Kali Linux - Linux is running as a virtuam machine
+  ![image](https://github.com/FRANCOJUMAH/Network-Monitoring/blob/810389816d1be622b00d06af49e4d3fa957af3e6/imgs/Kali-Linux.jpg)
+  
+- Manage Engine Installer - 
+  ![image](https://github.com/FRANCOJUMAH/Network-Monitoring/blob/810389816d1be622b00d06af49e4d3fa957af3e6/imgs/bin%20install.jpg)
+  
+- Network - Two subnets (192.168.0.1/24 and 10.0.1.1/24)
 
 
 ## 📝 Project Steps
 
-1. **Created the EC2 Instance (Windows)**
-   - Log in to the AWS Management Console (https://signin.aws.amazon.com/), 
-   ![image](https://github.com/FRANCOJUMAH/Creating-an-AWS-EC2-Instance-/blob/2efa99f82ef7d9d4d59a3921a3ef55a47846d58a/resources/Console.png)
+1. **Open and run the terminal with root privilege**
+   - Traverse to the folder with the bin installer and open the terminal,
+   - 
+   ![image](https://github.com/FRANCOJUMAH/Network-Monitoring/blob/810389816d1be622b00d06af49e4d3fa957af3e6/imgs/Engine02.jpg
    - Go to the EC2 Dashboard in the AWS Management Console and click "Launch Instance".
    - Name the instance ("tuko-kadi") and selected a Windows AMI (Microsoft Windows Server 2025 Base).
-   - Choose an instance type, such as t2.micro (Free Tier eligible).
-   - Create a new key pair, download the .pem file, and store it securely.
-   - Under Network Settings, ensure "Auto-assign public IP" is enabled
+   
