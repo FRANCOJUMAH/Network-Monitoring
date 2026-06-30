@@ -91,4 +91,21 @@ _Manage Engine Installer bin file in the default downloads folder_
 - Performance Monitors - below are some metrics you could set in your dashboard to monitor your network infrastructure
 ![image](https://github.com/FRANCOJUMAH/Network-Monitoring/blob/2f1eda3db2879a20a784e1108a3fa015494c94fc/imgs/Engine15.jpg) 
 
+- Add Devices : You could add devices using network discovery by setting the subnet correctly and let the system detect available devices
+![image](https://github.com/FRANCOJUMAH/Network-Monitoring/blob/e098ca3eae40178c40da057cd8218a225ac1db0a/imgs/network%20discovery.jpg)
+
+- Added devices (45) , 1 Subnet 
+![image](https://github.com/FRANCOJUMAH/Network-Monitoring/blob/e098ca3eae40178c40da057cd8218a225ac1db0a/imgs/subnet.jpg)
+
+- OpManager Dashboard : You can monitor your infrastructure. Any Alarms either critical or normal can also be previewed here.
+- Depending on your preference, you can also go ahead and configure Mail Server to get email notifications incase of an alarm. 
+
+![image](https://github.com/FRANCOJUMAH/Network-Monitoring/blob/e098ca3eae40178c40da057cd8218a225ac1db0a/imgs/dashboard.jpg)
+
+     _ N/B - This is not the end. There are so many functionalities to unwind in this lab. I hope this doc was instrumental and off help as you go on to set up your lab environment that would go along to help in learning and monitoring your network environments. _
+  
+                                                                      **Keep Building and Keep Learning**
+
+
+
 
