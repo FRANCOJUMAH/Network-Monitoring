@@ -5,7 +5,7 @@
 
 ![image](https://github.com/FRANCOJUMAH/Network-Monitoring/blob/af269e244648de0acd39223ab4f1dd0f1583f333/imgs/OpManager.jpg)
 
-- **This project entails Monitoring Networks, Servers, Virtualization, Storage, Applications**
+- **This lab entails Monitoring Networks, Servers, Virtualization, Storage, Applications**
 -  _The tool in use here is ManageEngine OpManager running on a Linux Environment_
 -  _Project Requirements : Linux Environment either running as a VM or a guest Os, ManageEngine installer and working networking environment_ 
 
@@ -20,6 +20,7 @@
 Requirements:
 
 - ManageEngine OpManager installer (.bin file)
+  Here you can get the installation files for different platforms - https://www.manageengine.com/download.html
 
 - Root or sudo privileges
 
@@ -80,4 +81,14 @@ _Manage Engine Installer bin file in the default downloads folder_
        _https://kali:8061  /    http://kali:8060_
        
  ![image](https://github.com/FRANCOJUMAH/Network-Monitoring/blob/b4aa96d2af82b25ad91e05fa1938e6c2ce5696d0/imgs/Engine11.jpg)
-   
+ 
+- Login with the default credentials after which you will be prompted to change as a security requirement 
+ ![image](https://github.com/FRANCOJUMAH/Network-Monitoring/blob/2f1eda3db2879a20a784e1108a3fa015494c94fc/imgs/Engine12.jpg)
+
+- View Dashboard 
+![image](https://github.com/FRANCOJUMAH/Network-Monitoring/blob/2f1eda3db2879a20a784e1108a3fa015494c94fc/imgs/Engine14.jpg)
+
+- Performance Monitors - below are some metrics you could set in your dashboard to monitor your network infrastructure
+![image](https://github.com/FRANCOJUMAH/Network-Monitoring/blob/2f1eda3db2879a20a784e1108a3fa015494c94fc/imgs/Engine15.jpg) 
+
+
