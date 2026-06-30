@@ -27,7 +27,7 @@
 1. **Open and run the terminal with root privilege**
    - Traverse to the folder with the bin installer and open the terminal,
    - 
-   ![image](https://github.com/FRANCOJUMAH/Network-Monitoring/blob/810389816d1be622b00d06af49e4d3fa957af3e6/imgs/Engine02.jpg
+   ![image](https://github.com/FRANCOJUMAH/Network-Monitoring/blob/810389816d1be622b00d06af49e4d3fa957af3e6/imgs/Engine02.jpg)
    - Go to the EC2 Dashboard in the AWS Management Console and click "Launch Instance".
    - Name the instance ("tuko-kadi") and selected a Windows AMI (Microsoft Windows Server 2025 Base).
    
