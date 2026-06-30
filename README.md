@@ -1,12 +1,16 @@
-# Ajira Cloud Computing Project
+# Network Monitoring using ManageEngine OpManager
 
 
 ## 🎯 Task Overview
 
-![image](https://github.com/FRANCOJUMAH/EC2-Instance-RDP-Project/blob/a28a5e4d5e8199f5405c1114de3e82c93bcb1a18/images/ec2%20rdp.png)
+![image](https://github.com/FRANCOJUMAH/Network-Monitoring/blob/af269e244648de0acd39223ab4f1dd0f1583f333/imgs/OpManager.jpg)
 
-- **This project entails launching a Windows EC2 instance, enabling Remote Desktop Protocol (RDP) access via security groups, and configuring Amazon Cloudwatch for Monitoring & Amazon SNS to send notifications.**
--  _Create an RDP server, configure network security, and use Cloudwatch & SNS to monitor or alert on instance state changes (e.g., stopping/starting) for a complete, managed remote environment_
+- **This project entails Monitoring Networks, Servers, Virtualization, Storage, Applications**
+-  _The tool in use here is ManageEngine OpManager running on a Linux Environment_
+-  _Project Requirements : Linux Environment either running as a VM or a guest Os, ManageEngine installer and working networking environment_ 
+
+
+
 
 ## 📝 Project Steps
 
