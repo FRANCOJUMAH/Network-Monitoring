@@ -62,11 +62,22 @@ _Manage Engine Installer bin file in the default downloads folder_
  ![image](https://github.com/FRANCOJUMAH/Network-Monitoring/blob/2081e6589eb12afecba68e12481488706d0ad3e2/imgs/Engine07.jpg)
 
  ManageEngine is now running and can be seen with the relevant services loaded and running concurrently as seen below :
-   Web Client - 8060 & 8061
-   Postgres - 13306
-   SSHD -     22
-   TFTP - 69 
-   Syslog - 514
+   _Web Client - 8060 & 8061,
+   Postgres - 13306,
+   SSHD -     22,
+   TFTP - 69, 
+   Syslog - 514_
 
-  
+ ![image](https://github.com/FRANCOJUMAH/Network-Monitoring/blob/b4aa96d2af82b25ad91e05fa1938e6c2ce5696d0/imgs/Engine08.jpg)
+ 
+ ![image](https://github.com/FRANCOJUMAH/Network-Monitoring/blob/b4aa96d2af82b25ad91e05fa1938e6c2ce5696d0/imgs/Engine09.jpg)
+
+ ![image](https://github.com/FRANCOJUMAH/Network-Monitoring/blob/b4aa96d2af82b25ad91e05fa1938e6c2ce5696d0/imgs/Engine10.jpg)
+
+3. **Accessing the Web Console**
+
+- OpManager is now running and is accessible using the web client service running on port 8060 for http and port 8061 for https.
+       _https://kali:8061  /    http://kali:8060_
+       
+ ![image](https://github.com/FRANCOJUMAH/Network-Monitoring/blob/b4aa96d2af82b25ad91e05fa1938e6c2ce5696d0/imgs/Engine11.jpg)
    
