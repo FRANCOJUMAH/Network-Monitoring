@@ -102,10 +102,9 @@ _Manage Engine Installer bin file in the default downloads folder_
 
 ![image](https://github.com/FRANCOJUMAH/Network-Monitoring/blob/e098ca3eae40178c40da057cd8218a225ac1db0a/imgs/dashboard.jpg)
 
-     _ N/B - This is not the end. There are so many functionalities to unwind in this lab. I hope this doc was instrumental and off help as you go on to set up your lab environment that would go along to help in learning and monitoring your network environments. _
+  _N/B - This is not the end. There are so many functionalities to unwind in this lab. 
+  I hope this doc was instrumental and of help as you go on to set up your lab environment that would go along to help in learning and monitoring your network environments_
   
-                                                                      **Keep Building and Keep Learning**
-
-
+                                                    **Keep Building and Keep Learning**
 
 
